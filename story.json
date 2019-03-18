@@ -1,0 +1,18 @@
+{
+    "title_en": "Little Red Hen",
+    "title": "బుజ్జి ఎర్ర కోడి",
+    "cover_image": "cover.jpg",
+    "pages_count": 2,
+    "pages": [
+        {
+            "english": "Once upon a time there was a little red hen. She lived on a pleasant farm and ate the food she grew there.",
+            "telugu": "అనగనగా వక బుజ్జి ఎర్ర కోడి ఉండేది. వక ప్రశాంత మయిన పొలములో పండినవి తిని ఆనందంగా ఉండేది.",
+            "image": "scene01.jpg"
+        },
+        {
+            "english": "One day the little red hen found a grain of foxtail millet. She thought she would plant it to grow more grain for herself. \"Who will help me plant this grain of foxtail millet?\" asked the little red hen.",
+            "telugu": "వక రోజు ఆ బుజ్జి కోడికి వక కొర్రలు విత్తనం దొరికింది. తనుకోసం కొర్రలు పండించుకుందాం అనుకున్నది. \"ఎవరు నాకు సహాయం చేస్తారు ఈ కొర్ర విత్తనాలు నాటటానికి?\" అడిగింది ఆ బుజ్జి కోడి",
+            "image": "scene02.jpg"
+        }
+    ]
+}
